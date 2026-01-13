@@ -1,0 +1,1 @@
+Este es un documento vacío ya que Git no detecta carpetas vacías-
